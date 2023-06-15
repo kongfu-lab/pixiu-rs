@@ -5,5 +5,5 @@ authors = ["wujunze <itwujunze@163.com>"]
 edition = "2018"
 
 [dependencies]
-rocket = "0.4.0"
+rocket = "0.4.7"
 flaken = "0.2.2"
